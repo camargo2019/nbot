@@ -1,0 +1,20 @@
+{
+  "name": "nbot-server",
+  "version": "1.0.0",
+  "description": "nBot Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gabriel Camargo (@camargo.2018)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.34",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7",
+    "node-localstorage": "^2.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
